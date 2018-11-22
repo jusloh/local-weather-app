@@ -25,5 +25,7 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
-  "npm.enableScriptExplorer": true
+  "npm.enableScriptExplorer": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true
 }
